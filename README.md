@@ -1,14 +1,15 @@
 ### Hi there, I'm Manish 👋
 
-- <img style="padding-right: 10px" align="left" alt="Graduation Icon" width="25" src="https://image.flaticon.com/icons/svg/2231/2231605.svg" />I'm an <b>IIT Bombay</b> graduate and a self-taught <b>Data Scientist</b>
-- <img style="padding-right: 10px" align="left" alt="Work Icon" width="25" src="https://image.flaticon.com/icons/svg/149/149399.svg" />I have <b>2yr+</b> of industry as well as research experience in the field of <b> Data Science</b> and <b>AI in drug discovery</b>
-- <img style="padding-right: 10px" align="left" alt="Document Icon" width="25" src="https://image.flaticon.com/icons/svg/149/149348.svg" />Download my CV here <a href="/files/resume.pdf" style="color: inherit"><img style="padding-left: 10px" alt="Download Icon" width="25" src="https://image.flaticon.com/icons/svg/126/126488.svg" /></a>
+- <img style="padding-right: 10px" align="left" alt="Graduation Icon" width="20" src="https://image.flaticon.com/icons/svg/2231/2231605.svg" />I'm an <b>IIT Bombay</b> graduate and a self-taught <b>Data Scientist</b>
+- <img style="padding-right: 10px" align="left" alt="Work Icon" width="20" src="https://image.flaticon.com/icons/svg/149/149399.svg" />I have <b>2yr+</b> of industry as well as research experience in the field of <b> Data Science</b> and <b>AI in drug discovery</b>
+- <img style="padding-right: 10px" align="left" alt="Document Icon" width="20" src="https://image.flaticon.com/icons/svg/149/149348.svg" />Download my CV here <a href="/files/resume.pdf" style="color: inherit"><img style="padding-left: 10px" alt="Download Icon" width="20" src="https://image.flaticon.com/icons/svg/126/126488.svg" /></a>
 
 ### Connect with me:
 
 [<img align="left" alt="sihagmnis36.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Manish Sihag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Manish Sihag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Manish Sihag | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/envelope-closed.svg" />][email]
 
 <br />
 
@@ -38,3 +39,4 @@
 [website]: https://sihagmnis36.github.io
 [instagram]: https://instagram.com/mni.z
 [linkedin]: https://linkedin.com/in/manish-sihag
+[email]: mailto:sihagmanish36@gmail.com
