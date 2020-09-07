@@ -1,8 +1,8 @@
 ### Hi there, I'm Manish 👋
 
-- <img align="left" alt="sihagmnis36.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/vertical-align-top.svg" />I'm an <b>IIT Bombay</b> graduate and a self-taught <b>Data Scientist</b> 
-- <img align="left" alt="sihagmnis36.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/briefcase.svg" />I have <b>2yr+</b> of industry as well as research experience in the field of <b> Data Science</b> and <b>AI in drug discovery</b>
-- <img align="left" alt="sihagmnis36.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/document.svg" />Download my CV here <a href="/files/resume.pdf" style="color: inherit"><img align="left" alt="sihagmnis36.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/cloud-download.svg" /></a>
+<img align="left" alt="sihagmnis36.github.io" width="20" height="20" vertical-align="text-top" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/vertical-align-top.svg" />I'm an <b>IIT Bombay</b> graduate and a self-taught <b>Data Scientist</b> 
+<img align="left" alt="sihagmnis36.github.io" width="20" height="20" vertical-align="text-top" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/briefcase.svg" />I have <b>2yr+</b> of industry as well as research experience in the field of <b> Data Science</b> and <b>AI in drug discovery</b>
+<img align="left" alt="sihagmnis36.github.io" width="20" height="20" vertical-align="text-top" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/document.svg" />Download my CV here <a href="/files/resume.pdf" style="color: inherit"><img align="right" alt="sihagmnis36.github.io" width="20" height="20" vertical-align="text-top" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/cloud-download.svg" /></a>
 
 ### Connect with me:
 
@@ -15,7 +15,6 @@
 ### Languages and Tools:
 
 <p style="position: relative; margin-left: 29px;">
-  <span class="fa fa-code about-icon"></span>
   Programming languages/tools/softwares, I've worked with:
   <div style="float: left; width: 33%">
     <ul>
@@ -50,8 +49,6 @@
 </p>
 
 <br />
-<br />
-
 ---
 
 <details>
