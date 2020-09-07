@@ -1,8 +1,8 @@
 ### Hi there, I'm Manish 👋
 
-<img align="left" alt="sihagmnis36.github.io" width="20" height="20" vertical-align="text-top" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/vertical-align-top.svg" />I'm an <b>IIT Bombay</b> graduate and a self-taught <b>Data Scientist</b><br />
-<img align="left" alt="sihagmnis36.github.io" width="20" height="20" vertical-align="text-top" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/briefcase.svg" />I have <b>2yr+</b> of industry as well as research experience in the field of <b> Data Science</b> and <b>AI in drug discovery</b><br />
-<img align="left" alt="sihagmnis36.github.io" width="20" height="20" vertical-align="text-top" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/document.svg" />Download my CV here <a href="/files/resume.pdf" style="color: inherit"><img align="right" alt="sihagmnis36.github.io" width="20" height="20" vertical-align="text-top" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/cloud-download.svg" /></a><br />
+- <img style="padding-right: 10px" align="left" alt="Graduation Icon" width="25" src="https://image.flaticon.com/icons/svg/2231/2231605.svg" />I'm an <b>IIT Bombay</b> graduate and a self-taught <b>Data Scientist</b>
+- <img style="padding-right: 10px" align="left" alt="Work Icon" width="25" src="https://image.flaticon.com/icons/svg/149/149399.svg" />I have <b>2yr+</b> of industry as well as research experience in the field of <b> Data Science</b> and <b>AI in drug discovery</b>
+- <img style="padding-right: 10px" align="left" alt="Document Icon" width="25" src="https://image.flaticon.com/icons/svg/149/149348.svg" />Download my CV here <a href="/files/resume.pdf" style="color: inherit"><img style="padding-left: 10px" alt="Download Icon" width="25" src="https://image.flaticon.com/icons/svg/126/126488.svg" /></a>
 
 ### Connect with me:
 
