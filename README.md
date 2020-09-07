@@ -2,7 +2,7 @@
 
 <img style="padding-right: 10px" align="left" alt="Graduation Icon" width="20" src="https://image.flaticon.com/icons/svg/1344/1344761.svg" />I'm an <b>IIT Bombay</b> graduate and a self-taught <b>Data Scientist</b><br/>
 <img style="padding-right: 10px" align="left" alt="Work Icon" width="20" src="https://image.flaticon.com/icons/svg/149/149018.svg" />I have <b>2yr+</b> of industry as well as research experience in the field of <b> Data Science</b> and <b>AI in drug discovery</b><br/>
-<img style="padding-right: 10px" align="left" alt="Document Icon" width="20" src="https://image.flaticon.com/icons/svg/230/230321.svg" />Download my CV here <a href="/files/resume.pdf" style="color: inherit"><img style="padding-left: 10px" alt="Download Icon" width="20" src="https://image.flaticon.com/icons/svg/138/138601.svg" /></a><br/>
+<!-- <img style="padding-right: 10px" align="left" alt="Document Icon" width="20" src="https://image.flaticon.com/icons/svg/230/230321.svg" />Download my CV here <a href="/files/resume.pdf" style="color: inherit"><img style="padding-left: 10px" alt="Download Icon" width="20" src="https://image.flaticon.com/icons/svg/138/138601.svg" /></a><br/> -->
 
 ### Connect with me:
 
