@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sihagmnis36.github.io" width="22px" src="https://image.flaticon.com/icons/svg/145/145801.svg" />][website]
+[<img align="left" alt="mnis.github.io" width="22px" src="https://image.flaticon.com/icons/svg/145/145801.svg" />][website]
 [<img align="left" alt="Manish Sihag | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/145/145807.svg" />][linkedin]
 [<img align="left" alt="Manish Sihag | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/145/145805.svg" />][instagram]
 [<img align="left" alt="Manish Sihag | Email" width="22px" src="https://image.flaticon.com/icons/svg/893/893257.svg" />][email]
@@ -32,11 +32,11 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Manish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sihagmnis36&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img align="left" alt="Manish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mnis&show_icons=true&hide_border=true&include_all_commits=true" />
 
 </details>
 
-[website]: https://sihagmnis36.github.io
+[website]: https://mnis.github.io
 [instagram]: https://instagram.com/mni.z
 [linkedin]: https://linkedin.com/in/manish-sihag
 [email]: mailto:sihagmanish36@gmail.com
