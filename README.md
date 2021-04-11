@@ -36,7 +36,7 @@
 
 </details>
 
-[website]: chemicbook.com
+[website]: https://chemicbook.com
 [instagram]: https://instagram.com/mni.z
 [linkedin]: https://linkedin.com/in/manish-sihag
 [email]: mailto:sihagmanish36@gmail.com
