@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sihagmnis36.github.io" width="22px" src="https://image.flaticon.com/icons/svg/145/145801.svg" />][website]
+[<img align="left" alt="chemicbook.com" width="22px" src="https://image.flaticon.com/icons/svg/145/145801.svg" />][website]
 [<img align="left" alt="Manish Sihag | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/145/145807.svg" />][linkedin]
 [<img align="left" alt="Manish Sihag | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/145/145805.svg" />][instagram]
 [<img align="left" alt="Manish Sihag | Email" width="22px" src="https://image.flaticon.com/icons/svg/893/893257.svg" />][email]
