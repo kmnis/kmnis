@@ -1,7 +1,7 @@
 <h1>👋 Hey! Nice to see you. I'm Manish.</h1>
 
 
-<p>An IIT Bombay graduate and a self-taught Data Scientist with 3yr+ experience in AI in Drug Discovery.</p>
+<p>I'm currently pursuing my Masters in Analytics from <b>The University of Chicago</b>. Previously, I graduated from <b>IIT Bombay</b> with a Bachelors in Chemical Engineering. I have 4 years of experience as a Data Scientist with a focus on AI in Drug Discovery.</p>
 <h3>Programming languages and tools I use</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
