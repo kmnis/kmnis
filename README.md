@@ -35,7 +35,7 @@
 </ul>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/kmnis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manish-sihag" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/9865225/mnis" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> <a href="https://chemicbook.com/feed.xml" target="_blank"><img alt="RSS" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" /></a>
+<p><a href="https://github.com/kmnis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kmnis" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/9865225/mnis" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> <a href="https://chemicbook.com/feed.xml" target="_blank"><img alt="RSS" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmnis&label=Profile%20views&color=0e75b6&style=flat" alt="kmnis" /> </p>
