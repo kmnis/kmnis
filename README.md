@@ -1,4 +1,4 @@
-<h1>👋 Hey! Nice to see you. I'm Manish.</h1>
+<h1>👋 Hey! I'm Manish.</h1>
 
 
 <p>I'm currently pursuing my Masters in Applied Data Science from <b>The University of Chicago</b>. Previously, I graduated from <b>IIT Bombay</b> with a Bachelor in Chemical Engineering. I have 5 years of experience as a Data Scientist with a focus on NLP, Large Language Models, and AI in Drug Discovery.</p>
