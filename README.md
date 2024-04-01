@@ -29,7 +29,7 @@
   <li><a href="https://chemicbook.com/2023/04/11/LLMs-in-Chemistry.html">Large Language Models in Chemistry</a></li>
   <li><a href="https://chemicbook.com/2021/04/11/predicting-the-products-of-a-chemical-reaction-using-graph-convolutional-neural-network-part-2.html">Predicting the products of a chemical reaction using graph-convolutional neural network (Part 2)</li>
   <li><a href="https://chemicbook.com/2021/04/10/predicting-the-products-of-a-chemical-reaction-using-graph-convolutional-neural-network-part-1.html">Predicting the products of a chemical reaction using graph-convolutional neural network (Part 1)</li>
-  <li><a href="https://chemicbook.com/2021/03/25/a-beginners-guide-for-understanding-extended-connectivity-fingerprints.html">A beginner's guide for understanding Extended-Connectivity Fingerprints(ECFPs)</li>
+  <li><a href="https://chemicbook.com/2021/03/25/a-beginners-guide-for-understanding-extended-connectivity-fingerprints.html">A beginner's guide for understanding Extended-Connectivity Fingerprints (ECFPs)</li>
 </ul>
 
 <h3>Where to find me</h3>
