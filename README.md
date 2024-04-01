@@ -1,7 +1,7 @@
 <h1>👋 Hey! I'm Manish.</h1>
 
 
-<p>I'm currently pursuing my Masters in Applied Data Science from <b>The University of Chicago</b>. Previously, I graduated from <b>IIT Bombay</b> with a Bachelor in Chemical Engineering. I have 5 years of experience as a Data Scientist with a focus on NLP, Large Language Models, and AI in Drug Discovery.</p>
+<p>I'm currently a Sr Data Scientist at Royal Cyber. Previously, I graduated from <b>The University of Chicago</b> with a Masters in Applied Data Science and <b>IIT Bombay</b> with a Bachelor in Chemical Engineering. I have 5 years of experience as a Data Scientist with a focus on NLP, Large Language Models, and AI in Drug Discovery.</p>
 <h3>Programming languages and tools I use</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
